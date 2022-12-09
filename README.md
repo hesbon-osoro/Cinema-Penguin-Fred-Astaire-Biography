@@ -1,6 +1,6 @@
 # Cinema Penguin Fred Astaire Biography
 
-[![Cinema](cinemapenguinfredastairebiography.png)](https://hesbon-osoro.github.io/Cinema-Penguin-Fred-Astaire-Biography)
+[![Cinema](assets/cinemapenguinfredastairebiography.png)](https://hesbon-osoro.github.io/Cinema-Penguin-Fred-Astaire-Biography)
 
 [Demo](https://hesbon-osoro.github.io/Cinema-Penguin-Fred-Astaire-Biography)
 
